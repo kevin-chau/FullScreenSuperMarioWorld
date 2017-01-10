@@ -7,3 +7,18 @@
 [submodule "FullScreenSuperMarioWorld/Source/References/ScenePlayr"]
 	path = FullScreenSuperMarioWorld/Source/References/ScenePlayr
 	url = https://github.com/FullScreenShenanigans/ScenePlayr.git
+[submodule "FullScreenSuperMarioWorld/Source/References/UsageHelpr"]
+	path = FullScreenSuperMarioWorld/Source/References/UsageHelpr
+	url = https://github.com/FullScreenShenanigans/UsageHelpr.git
+[submodule "FullScreenSuperMarioWorld/Source/References/LevelEditr"]
+	path = FullScreenSuperMarioWorld/Source/References/LevelEditr
+	url = https://github.com/FullScreenShenanigans/LevelEditr.git
+[submodule "FullScreenSuperMarioWorld/Source/References/InputWritr"]
+	path = FullScreenSuperMarioWorld/Source/References/InputWritr
+	url = https://github.com/FullScreenShenanigans/InputWritr.git
+[submodule "FullScreenSuperMarioWorld/Source/References/NumberMakr"]
+	path = FullScreenSuperMarioWorld/Source/References/NumberMakr
+	url = https://github.com/FullScreenShenanigans/NumberMakr.git
+[submodule "FullScreenSuperMarioWorld/Source/References/StringFilr"]
+	path = FullScreenSuperMarioWorld/Source/References/StringFilr
+	url = https://github.com/FullScreenShenanigans/StringFilr.git
