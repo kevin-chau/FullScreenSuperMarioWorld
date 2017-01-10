@@ -22,3 +22,66 @@
 [submodule "FullScreenSuperMarioWorld/Source/References/StringFilr"]
 	path = FullScreenSuperMarioWorld/Source/References/StringFilr
 	url = https://github.com/FullScreenShenanigans/StringFilr.git
+[submodule "FullScreenSuperMarioWorld/Source/References/WorldSeedr"]
+	path = FullScreenSuperMarioWorld/Source/References/WorldSeedr
+	url = https://github.com/FullScreenShenanigans/WorldSeedr.git
+[submodule "FullScreenSuperMarioWorld/Source/References/ThingHittr"]
+	path = FullScreenSuperMarioWorld/Source/References/ThingHittr
+	url = https://github.com/FullScreenShenanigans/ThingHittr.git
+[submodule "FullScreenSuperMarioWorld/Source/References/TouchPassr"]
+	path = FullScreenSuperMarioWorld/Source/References/TouchPassr
+	url = https://github.com/FullScreenShenanigans/TouchPassr.git
+[submodule "FullScreenSuperMarioWorld/Source/References/AudioPlayr"]
+	path = FullScreenSuperMarioWorld/Source/References/AudioPlayr
+	url = https://github.com/FullScreenShenanigans/AudioPlayr.git
+[submodule "FullScreenSuperMarioWorld/Source/References/ObjectMakr"]
+	path = FullScreenSuperMarioWorld/Source/References/ObjectMakr
+	url = https://github.com/FullScreenShenanigans/ObjectMakr.git
+[submodule "FullScreenSuperMarioWorld/Source/References/PixelRendr"]
+	path = FullScreenSuperMarioWorld/Source/References/PixelRendr
+	url = https://github.com/FullScreenShenanigans/PixelRendr.git
+[submodule "FullScreenSuperMarioWorld/Source/References/PixelDrawr"]
+	path = FullScreenSuperMarioWorld/Source/References/PixelDrawr
+	url = https://github.com/FullScreenShenanigans/PixelDrawr.git
+[submodule "FullScreenSuperMarioWorld/Source/References/ChangeLinr"]
+	path = FullScreenSuperMarioWorld/Source/References/ChangeLinr
+	url = https://github.com/FullScreenShenanigans/ChangeLinr.git
+[submodule "FullScreenSuperMarioWorld/Source/References/DeviceLayr"]
+	path = FullScreenSuperMarioWorld/Source/References/DeviceLayr
+	url = https://github.com/FullScreenShenanigans/DeviceLayr.git
+[submodule "FullScreenSuperMarioWorld/Source/References/FPSAnalyzr"]
+	path = FullScreenSuperMarioWorld/Source/References/FPSAnalyzr
+	url = https://github.com/FullScreenShenanigans/FPSAnalyzr.git
+[submodule "FullScreenSuperMarioWorld/Source/References/GroupHoldr"]
+	path = FullScreenSuperMarioWorld/Source/References/GroupHoldr
+	url = https://github.com/FullScreenShenanigans/GroupHoldr.git
+[submodule "FullScreenSuperMarioWorld/Source/References/ItemsHoldr"]
+	path = FullScreenSuperMarioWorld/Source/References/ItemsHoldr
+	url = https://github.com/FullScreenShenanigans/ItemsHoldr.git
+[submodule "FullScreenSuperMarioWorld/Source/References/MathDecidr"]
+	path = FullScreenSuperMarioWorld/Source/References/MathDecidr
+	url = https://github.com/FullScreenShenanigans/MathDecidr.git
+[submodule "FullScreenSuperMarioWorld/Source/References/TimeHandlr"]
+	path = FullScreenSuperMarioWorld/Source/References/TimeHandlr
+	url = https://github.com/FullScreenShenanigans/TimeHandlr.git
+[submodule "FullScreenSuperMarioWorld/Source/References/UserWrappr"]
+	path = FullScreenSuperMarioWorld/Source/References/UserWrappr
+	url = https://github.com/FullScreenShenanigans/UserWrappr.git
+[submodule "FullScreenSuperMarioWorld/Source/References/MapsCreatr"]
+	path = FullScreenSuperMarioWorld/Source/References/MapsCreatr
+	url = https://github.com/FullScreenShenanigans/MapsCreatr.git
+[submodule "FullScreenSuperMarioWorld/Source/References/AreaSpawnr"]
+	path = FullScreenSuperMarioWorld/Source/References/AreaSpawnr
+	url = https://github.com/FullScreenShenanigans/AreaSpawnr.git
+[submodule "FullScreenSuperMarioWorld/Source/References/GamesRunnr"]
+	path = FullScreenSuperMarioWorld/Source/References/GamesRunnr
+	url = https://github.com/FullScreenShenanigans/GamesRunnr.git
+[submodule "FullScreenSuperMarioWorld/Source/References/MapScreenr"]
+	path = FullScreenSuperMarioWorld/Source/References/MapScreenr
+	url = https://github.com/FullScreenShenanigans/MapScreenr.git
+[submodule "FullScreenSuperMarioWorld/Source/References/ModAttachr"]
+	path = FullScreenSuperMarioWorld/Source/References/ModAttachr
+	url = https://github.com/FullScreenShenanigans/ModAttachr.git
+[submodule "FullScreenSuperMarioWorld/Source/References/QuadsKeepr"]
+	path = FullScreenSuperMarioWorld/Source/References/QuadsKeepr
+	url = https://github.com/FullScreenShenanigans/QuadsKeepr.git
