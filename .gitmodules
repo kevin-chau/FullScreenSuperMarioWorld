@@ -4,3 +4,6 @@
 [submodule "FullScreenSuperMarioWorld/Source/References/GameStartr"]
 	path = FullScreenSuperMarioWorld/Source/References/GameStartr
 	url = https://github.com/FullScreenShenanigans/GameStartr.git
+[submodule "FullScreenSuperMarioWorld/Source/References/ScenePlayr"]
+	path = FullScreenSuperMarioWorld/Source/References/ScenePlayr
+	url = https://github.com/FullScreenShenanigans/ScenePlayr.git
